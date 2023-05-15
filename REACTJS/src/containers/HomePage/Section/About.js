@@ -12,15 +12,16 @@ class About extends Component {
                </div>
                <div className='section-about-content'>
                     <div className='content-left'>
-                        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/147SkAVXEqM?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI" title="#51 Kết Thúc Design Giao Diện Clone BookingCare.vn 4 | React.JS Cho Người Mới Bắt Đầu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe width="700" height="400" src="https://www.youtube.com/embed/7tiR7SI4CkI" title="BookingCare trên VTV1 ngày 21/02/2018 - Chương trình Cà phê khởi nghiệp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     </div>
                     <div className='content-right'>
-                        <p>Theo số liệu bán hàng từ Hiệp hội các nhà sản xuất ô tô Việt Nam (VAMA), trong tháng 2/2023, tổng doanh số xe hạng A giá rẻ chỉ đạt 1.114 xe, nhưng tăng mạnh 43,55% so với tháng trước (bán 776 xe). 
-Doanh số xe hạng A tăng mạnh là nhờ trong tháng 2, hai mẫu xe Hyundai Grand i10 và KIA Morning được các đại lý áp dụng chính sách ưu đãi về giá khá hấp dẫn nhằm xả kho, kích cầu người mua. 
+                       <p>
+                       Đặt lịch khám 24/7 thân thiện, tiện ích
 
-Theo đó, Hyundai Grand i10 đã chào bán bản hatchback AT sản xuất năm 2022 với giá chưa đến 390 triệu đồng, giảm khoảng 50 triệu đồng so với giá niêm yết. Với phiên bản sedan, xe  có mức giảm khoảng 15 triệu đồng.
+BookingCare hoạt động liên tục 24 giờ một ngày, 7 ngày một tuần, và 365 ngày một năm, kể cả ngày nghỉ và ngày lễ để bạn có thể đặt lịch trực tuyến. Đây là một lợi thế lớn của hệ thống đặt lịch khám trên Internet, hoạt động liên tục 24/7 thay vì chỉ giới hạn trong giờ hành chính như dịch vụ truyền thống.
 
-Các đại lý KIA cũng ưu đãi 30 triệu đồng cho khách hàng mua xe Morning đời 2022.</p>
+Bạn có thể sử dụng dịch vụ đặt lịch khám của BookingCare bất cứ lúc nào nếu bạn có một tình trạng sức khỏe không khẩn cấp, có kế hoạch thăm khám chủ động. Hoặc đơn giản là muốn có một lựa chọn phù hợp, hiệu quả thay cho cho việc đến đăng ký khám trực tiếp và chờ đợi, xếp hàng tại các cơ sở y tế.
+                       </p>
                     </div>
                </div>
             </div>
