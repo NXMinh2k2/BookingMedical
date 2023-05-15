@@ -1,0 +1,13 @@
+.medical-facility-child {
+    padding: 0 5px;
+
+    .clinic-name {
+        font-size: 18px;
+        cursor: pointer;
+        padding: 10px 0;
+
+        &:hover {
+            color: #45c3d2;
+        }
+    }    
+}
